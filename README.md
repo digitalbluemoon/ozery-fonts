@@ -9,7 +9,12 @@ Sini Font Family
 
 Sini-Bold, Sini-Ornament, Sini-BoldItalic
 
-HalisR Font Family (Brandon Grotesque)
+HalisR Font Family
 -
 
 HalisR-Light, HalisR-Medium
+
+Brandon Grotesque Font Family
+-
+
+To be updated...
