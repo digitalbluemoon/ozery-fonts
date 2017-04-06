@@ -1,12 +1,10 @@
 # Ozery Webfonts
 
-To be used on Ozery Bakery projects.
+To be used on Ozery Bakery projects @ developer: Sabin A. Dologa
 
-Website's main font files: http://ozerybakery.com/Content/fonts.css
+Most of the webfonts are bought by the client (licenced). I aquired them from the client's website or were generated with fontsquirrel.com, based on the original non-web ones. They are located in the /fonts folder.
 
-Client's font files: https://drive.google.com/open?id=0B-3QDDu6aQoYbWR2R2xLQmFxUjA
-
-All webfonts (aquired from the client's website or generated with fontsquirrel.com based on the original non-web ones) are located in the /fonts folder.
+A Demo Page with all the fonts can be found in index.html
 
 Included webfonts:
 -
@@ -20,4 +18,12 @@ Brandon Grotesque Black, Brandon Grotesque Black Italic, Brandon Grotesque Bold,
 How to use:
 -
 
-To be updated...
+To be added...
+
+Materials:
+-
+
+Website's main font files: http://ozerybakery.com/Content/fonts.css
+
+Client's font files: https://drive.google.com/open?id=0B-3QDDu6aQoYbWR2R2xLQmFxUjA
+
