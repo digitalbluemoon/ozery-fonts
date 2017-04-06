@@ -1,0 +1,21 @@
+/* Ozery Webfonts - Demo Page Stylesheet */
+
+/* Import the Fonts */
+@import 'fonts.css';
+
+/* Global */
+html { font-family: Tahoma, Arial, sans-serif; }
+body { margin-left: 35px; margin-right: 35px; }
+hr { border-top: 1px solid blue; }
+
+/* Headings */
+/*h1,h2,h5{ font-family: sini_bold; }
+h3,h4,h6 { font-family: sini_ornament; }*/
+
+/* Content */
+.container { margin-left: 35px; margin-right: 35px; }
+.title { margin-bottom: 5px; }
+.blue { color: blue; }
+
+.sini_bold { font-family: sini_bold; }
+.sini_ornament { font-family: sini_ornament; }
