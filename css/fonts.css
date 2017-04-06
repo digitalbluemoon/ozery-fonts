@@ -162,7 +162,7 @@
     font-style: normal;
 }
 @font-face {
-	font-family: 'sini_bold';
+	font-family: 'sini_bold_italic';
 	src: url('fonts/sini-bolditalic-webfont.eot');
 	src: url('fonts/sini-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
 		 url('fonts/sini-bolditalic-webfont.woff') format('woff'),

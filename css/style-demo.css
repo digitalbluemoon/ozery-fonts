@@ -16,6 +16,11 @@ h3,h4,h6 { font-family: sini_ornament; }*/
 .container { margin-left: 35px; margin-right: 35px; }
 .title { margin-bottom: 5px; }
 .blue { color: blue; }
+.big { font-size: 32px; line-height: 18px; }
 
-.sini_bold { font-family: sini_bold; }
-.sini_ornament { font-family: sini_ornament; }
+.sb { font-family: 'sini_bold'; }
+.sbi { font-family: 'sini_bold_italic'; }
+.so { font-family: 'sini_ornament'; }
+
+.hrl { font-family: 'halisr_light'; }
+.hrm { font-family: 'halisr_medium'; }
