@@ -42,7 +42,9 @@ Brandon Grotesque Black, Brandon Grotesque Black Italic, Brandon Grotesque Bold,
 How to use:
 -
 
-Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo. You can use <code>< link rel="stylesheet" ></code> in the <code>< head ></code> of your page / website OR you can just <code>@import</code> the CDN URL of the /css/fonts.css into your own stylesheet.
+Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo.
+
+You can use <code>< link rel="stylesheet" ></code> in the <code>< head ></code> of your page / website OR you can just <code>@import</code> the CDN URL of the /css/fonts.css into your own stylesheet.
 
 Usage Examples:
 -
