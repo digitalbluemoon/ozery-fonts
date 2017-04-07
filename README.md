@@ -5,25 +5,28 @@ Developed by Sabin A. Dologa @ Digital BlueMoon agency
 This Repo is under copyright, even it's if public. You cannot and should not use, copy or distribute this repo or it's content without an espress written permission from Digital BlueMoon Agency.
 
 Most of the fonts included in this repo are subject to the End User License Agreement(s).
-All other parties are explicitly restricted from using the Licensed Webfonts(s).
+All other parties are explicitly restricted from using the Licensed Webfont(s).
 You are prohibited from modifying, reverse engineering, duplicating, or distributing this font software.
 The fonts are protected under domestic and international trademark and copyright law.
 
 Licenses:
 
 Vendor: Hiekka Graphics - License URL: http://www.myfonts.com/viewlicense?type=web&buildid=3172297
+
 Vendor: Ahmet Altun - License URL: http://www.fontspring.com/licenses/ahmet-altun/webfont
 
-(c) Ozery Bakery, MyFonts Inc, Fontspring
+(c) Ozery Bakery, Digital BlueMoon, MyFonts Inc, Fontspring & Font vendors
 
 For more details and licenses you can contact the owner through ozerybakery.com
 
 General Information:
 -
 
-To be used on Ozery Bakery projects
+To be used on Ozery Bakery projects.
 
-Most of the webfonts are bought by the client. I aquired them from the client's website or were generated with fontsquirrel.com, based on the original non-web ones. They are located in the /fonts folder. A Demo Page with all the fonts can be found in /index.html.
+Most of the webfonts are bought by the client. I aquired them from the client's website or were generated with fontsquirrel.com, based on the original non-web ones. They are located in the /fonts folder.
+
+A Demo Page with all the fonts can be found in /index.html.
 
 Included webfonts:
 -
@@ -39,29 +42,27 @@ Brandon Grotesque Black, Brandon Grotesque Black Italic, Brandon Grotesque Bold,
 How to use:
 -
 
-Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo.
-
-You can use <link> in the <head> of your page / website OR you can just @import the cdn URL of the /css/fonts.css into your own stylesheet.
+Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo. You can use <code><link></code> in the <code><head></code> of your page / website OR you can just <code>@import</code> the cdn URL of the /css/fonts.css into your own stylesheet.
 
 Usage Examples:
 -
 
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css">
+<code><link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css"></code>
 
 OR
 
-@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css';
+<code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css';</code>
 
 Used Materials:
 -
 
-31 WebFonts Included.
+31 WebFonts included so far.
 
 Ozery Bakery website font files: http://ozerybakery.com/Content/fonts.css
 
 Ozery Bakery provided font files: https://drive.google.com/open?id=0B-3QDDu6aQoYbWR2R2xLQmFxUjA
 
-Thanks to:
+Thanks goes to:
 -
 
-A Big Thank you! goes to RawGit - https://rawgit.com/ - for providing the free CDN GitHub service.
+A Big "Thank You!" goes to RawGit - https://rawgit.com/ - for providing the free CDN GitHub service.
