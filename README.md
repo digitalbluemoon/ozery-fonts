@@ -42,16 +42,16 @@ Brandon Grotesque Black, Brandon Grotesque Black Italic, Brandon Grotesque Bold,
 How to use:
 -
 
-Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo. You can use <code><link></code> in the <code><head></code> of your page / website OR you can just <code>@import</code> the cdn URL of the /css/fonts.css into your own stylesheet.
+Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo. You can use <pre><code><link rel="stylesheet"></code></pre> in the <pre><code><head></code></pre> of your page / website OR you can just <pre><code>@import</code></pre> the CDN URL of the /css/fonts.css into your own stylesheet.
 
 Usage Examples:
 -
 
-<code><link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css"></code>
+<pre><code><link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css"></code></pre>
 
 OR
 
-<code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css';</code>
+<pre><code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css';</code></pre>
 
 Used Materials:
 -
