@@ -2,7 +2,7 @@
 
 To be used on Ozery Bakery projects @ developer: Sabin A. Dologa
 
-Most of the webfonts are bought by the client (licenced). I aquired them from the client's website or were generated with fontsquirrel.com, based on the original non-web ones. They are located in the /fonts folder.
+Most of the webfonts are bought by the client (licensed). I aquired them from the client's website or were generated with fontsquirrel.com, based on the original non-web ones. They are located in the /fonts folder.
 
 A Demo Page with all the fonts can be found in index.html
 
