@@ -1,7 +1,7 @@
-/* Ozery Webfonts - Demo Page Stylesheet */
+/* Ozery Bakery Webfonts - Demo Page Stylesheet */
 
 /* Import the Fonts */
-@import 'fonts.css';
+@import 'https://rawgit.com/digitalbluemoon/ozery-fonts/master/css/fonts.css';
 
 /* Global */
 html { font-family: Tahoma, Arial, sans-serif; }
@@ -18,6 +18,7 @@ h3,h4,h6 { font-family: sini_ornament; }*/
 .blue { color: blue; }
 .big { font-size: 32px; line-height: 18px; }
 
+/* Brandon Grotesque */
 .bgbl { font-family: 'brandon_grotesque_black'; }
 .bgbli { font-family: 'brandon_grotesque_black_italic'; }
 .bgb { font-family: 'brandon_grotesque_bold'; }
@@ -31,10 +32,27 @@ h3,h4,h6 { font-family: sini_ornament; }*/
 .bgt { font-family: 'brandon_grotesque_thin'; }
 .bgti { font-family: 'brandon_grotesque_thin_italic'; }
 
-
+/* Sini */
 .sb { font-family: 'sini_bold'; }
 .sbi { font-family: 'sini_bold_italic'; }
 .so { font-family: 'sini_ornament'; }
 
+/* HalisR */
+.hrbl { font-family: 'halisr_black'; }
+.hrb { font-family: 'halisr_bold'; }
+.hrbk { font-family: 'halisr_book'; }
+.hrel { font-family: 'halisr_extralight'; }
 .hrl { font-family: 'halisr_light'; }
 .hrm { font-family: 'halisr_medium'; }
+.hrr { font-family: 'halisr_regular'; }
+.hrt { font-family: 'halisr_thin'; }
+
+/* HalisR S */
+.hr_sbl { font-family: 'halisr_s_black'; }
+.hr_sb { font-family: 'halisr_s_bold'; }
+.hr_sbk { font-family: 'halisr_s_book'; }
+.hr_sel { font-family: 'halisr_s_extralight'; }
+.hr_sl { font-family: 'halisr_s_light'; }
+.hr_sm { font-family: 'halisr_s_medium'; }
+.hr_sr { font-family: 'halisr_s_regular'; }
+.hr_st { font-family: 'halisr_s_thin'; }

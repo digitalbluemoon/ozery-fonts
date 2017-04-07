@@ -1,23 +1,26 @@
 /*
 * Ozery Bakery Webfonts
 *
+* RawGit CDN WebFonts - GitHub Repo Developed by Sabin A. Dologa @ Digital BlueMoon agency
+*
 * Most of the fonts included in this stylesheet are subject to the End User License Agreement(s).
 * All other parties are explicitly restricted from using the Licensed Webfonts(s).
 * You are prohibited from modifying, reverse engineering, duplicating, or distributing this font software.
 * The fonts are protected under domestic and international trademark and copyright law.
 *
-* Licences:
+* Licenses:
 *
 * Vendor: Hiekka Graphics
 * License URL: http://www.myfonts.com/viewlicense?type=web&buildid=3172297
 * Vendor: Ahmet Altun
 * License URL: http://www.fontspring.com/licenses/ahmet-altun/webfont
-* (c) MyFonts Inc & Fontspring
+* (c) Digital BlueMoon, MyFonts Inc, Fontspring
 *
-* For more details and licences you can contact us through ozerybakery.com
+* For more details and licenses you can contact the owner through ozerybakery.com
 */
 
-/* Brandon Grotesque Fonts */
+/********** Brandon Grotesque Fonts
+ *****************************************************************/
 @font-face {
     font-family: 'brandon_grotesque_black';
     src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/brandongrotesque-black-webfont.eot');
@@ -151,7 +154,8 @@
     font-style: italic;
 }
 
-/* Sini Fonts */
+/********** Sini Fonts
+ *****************************************************************/
 @font-face {
 	font-family: 'sini_bold';
 	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bold-webfont.eot');
@@ -164,40 +168,206 @@
     font-style: normal;
 }
 @font-face {
-	font-family: 'sini_bold_italic';
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.eot');
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.woff') format('woff'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.ttf') format('truetype');
-	font-weight: bold;
+    font-family: 'sini_bold_italic';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-bolditalic-webfont.svg#sinibolditalic') format('svg');
+    font-weight: bold;
     font-style: italic;
 }
 @font-face {
-	font-family: 'sini_ornament';
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.eot');
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.woff') format('woff'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.ttf') format('truetype');
-	font-weight: normal;
+    font-family: 'sini_ornament';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/sini-ornament-webfont.svg#siniornament') format('svg');
+    font-weight: normal;
     font-style: normal;
 }
 
-/* HalisR Fonts */
+/********** HalisR Fonts
+ *****************************************************************/
 @font-face {
-	font-family: 'halisr_light';
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.eot');
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.woff') format('woff'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.ttf') format('truetype');
+	font-family: 'halisr_black';
+	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.eot');
+	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.woff2') format('woff2'),
+		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.woff') format('woff'),
+		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-black-webfont.svg#halis_rblack') format('svg');
 	font-weight: normal;
     font-style: normal;
 }
 @font-face {
-	font-family: 'halisr_medium';
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.eot');
-	src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.woff') format('woff'),
-		 url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.ttf') format('truetype');
-	font-weight: normal;
+    font-family: 'halisr_bold';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-bold-webfont.svg#halis_rbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_book';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-book-webfont.svg#halis_rbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_extralight';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-extralight-webfont.svg#halis_rextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_light';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-light-webfont.svg#halis_rlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_medium';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-medium-webfont.svg#halis_rmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_regular';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-regular-webfont.svg#halis_r_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_thin';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-thin-webfont.svg#halis_rthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/********** HalisR S Fonts
+ *****************************************************************/
+@font-face {
+    font-family: 'halisr_s_black';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-black-webfont.svg#halis_rs_black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_bold';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-bold-webfont.svg#halis_rs_bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_book';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-book-webfont.svg#halis_rs_book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_extralight';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-extralight-webfont.svg#halis_rs_extralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_light';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-light-webfont.svg#halis_rs_light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_medium';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-medium-webfont.svg#halis_rs_medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_regular';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-regular-webfont.svg#halis_rs_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'halisr_s_thin';
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.eot');
+    src: url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.woff2') format('woff2'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.woff') format('woff'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.ttf') format('truetype'),
+         url('https://rawgit.com/digitalbluemoon/ozery-fonts/master/fonts/halisr-s-thin-webfont.svg#halis_rs_thin') format('svg');
+    font-weight: normal;
     font-style: normal;
 }
