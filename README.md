@@ -2,7 +2,7 @@
 
 Developed by Sabin A. Dologa @ Digital BlueMoon agency
 
-This Repo is under copyright, even it's if public. You cannot and should not use, copy or distribute this repo or it's content without an espress written permission from Digital BlueMoon Agency.
+This Repo is under copyright, even if it's public. You cannot and should not use, copy or distribute this repo or it's content without an espress written permission from Digital BlueMoon Agency.
 
 Most of the fonts included in this repo are subject to the End User License Agreement(s).
 All other parties are explicitly restricted from using the Licensed Webfont(s).
