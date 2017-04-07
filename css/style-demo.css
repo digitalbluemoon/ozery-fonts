@@ -14,9 +14,23 @@ h3,h4,h6 { font-family: sini_ornament; }*/
 
 /* Content */
 .container { margin-left: 35px; margin-right: 35px; }
-.title { margin-bottom: 5px; }
+.title { margin-top: 35px; margin-bottom: 5px; }
 .blue { color: blue; }
 .big { font-size: 32px; line-height: 18px; }
+
+.bgbl { font-family: 'brandon_grotesque_black'; }
+.bgbli { font-family: 'brandon_grotesque_black_italic'; }
+.bgb { font-family: 'brandon_grotesque_bold'; }
+.bgbi { font-family: 'brandon_grotesque_bold_italic'; }
+.bgl { font-family: 'brandon_grotesque_light'; }
+.bgli { font-family: 'brandon_grotesque_light_italic'; }
+.bgm { font-family: 'brandon_grotesque_medium'; }
+.bgmi { font-family: 'brandon_grotesque_medium_italic'; }
+.bgr { font-family: 'brandon_grotesque_regular'; }
+.bgri { font-family: 'brandon_grotesque_regular_italic'; }
+.bgt { font-family: 'brandon_grotesque_thin'; }
+.bgti { font-family: 'brandon_grotesque_thin_italic'; }
+
 
 .sb { font-family: 'sini_bold'; }
 .sbi { font-family: 'sini_bold_italic'; }
