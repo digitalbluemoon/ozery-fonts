@@ -1,7 +1,7 @@
 /* Ozery Bakery Webfonts - Demo Page Stylesheet */
 
 /* Import the Fonts */
-@import 'https://rawgit.com/digitalbluemoon/ozery-fonts/master/css/fonts.css';
+@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css';
 
 /* Global */
 html { font-family: Tahoma, Arial, sans-serif; }

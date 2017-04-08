@@ -49,11 +49,11 @@ You can use <code>< link rel="stylesheet" ></code> in the <code>< head ></code> 
 Usage Examples:
 -
 
-<pre><code>< link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css" ></code></pre>
+<pre><code>< link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css" ></code></pre>
 
 OR
 
-<pre><code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/1f9a0cc8/css/fonts.css';</code></pre>
+<pre><code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css';</code></pre>
 
 Used Materials:
 -
