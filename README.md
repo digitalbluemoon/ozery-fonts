@@ -46,7 +46,9 @@ Everything is pulled through the RawGit's CDN, based on the files hosted in this
 
 You can add the stylesheet <code>< link ></code> in the <code>< head ></code> of your webpage / website OR you can just <code>@import</code> the CDN URL of the /css/fonts.css at the top of your own stylesheet. Then obviously you'll be able to use any of these fonts into your own css classes. You can get the font-family names for each font by viewing the fonts.css stylesheet.
 
-Permanent RawGit CDN Url is this one (to be used only on production): https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css
+The Permanent RawGit CDN URL is this one (to be used only on production):
+
+https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css
 
 Usage Examples:
 -
@@ -81,7 +83,8 @@ Ozery Bakery website font files: http://ozerybakery.com/Content/fonts.css
 
 Ozery Bakery provided font files: https://drive.google.com/open?id=0B-3QDDu6aQoYbWR2R2xLQmFxUjA
 
-Thanks goes to:
+A Big Thanks goes to:
 -
 
-A Big "Thank You!" goes to RawGit - https://rawgit.com/ - for providing the free CDN GitHub service.
+The Man or Woman who discovered the coffee.
+RawGit - https://rawgit.com/ - for providing the free RawGit CDN service for GitHub.
