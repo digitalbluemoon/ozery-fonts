@@ -44,7 +44,9 @@ How to use:
 
 Everything is pulled through the RawGit's CDN, based on the files hosted in this GitHub repo.
 
-You can use <code>< link rel="stylesheet" ></code> in the <code>< head ></code> of your page / website OR you can just <code>@import</code> the CDN URL of the /css/fonts.css into your own stylesheet.
+You can add the stylesheet <code>< link ></code> in the <code>< head ></code> of your webpage / website OR you can just <code>@import</code> the CDN URL of the /css/fonts.css at the top of your own stylesheet. Then obviously you'll be able to use any of these fonts into your own css classes. You can get the font-family names for each font by viewing the fonts.css stylesheet.
+
+Permanent RawGit CDN Url is this one (to be used only on production): https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css
 
 Usage Examples:
 -
@@ -54,6 +56,21 @@ Usage Examples:
 OR
 
 <pre><code>@import 'https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css';</code></pre>
+
+
+Then you can define your own classes and use the font-family you need:
+
+<pre><code>
+.example_class1 {
+	font-family: 'sini_bold';
+	font-size: 18px;
+}
+
+.example_class2 {
+	font-family: 'brandon_grotesque_black';
+	font-size: 22px;
+}
+</code></pre>
 
 Used Materials:
 -
