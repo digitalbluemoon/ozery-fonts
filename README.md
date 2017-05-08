@@ -50,10 +50,10 @@ The Permanent RawGit CDN URL is this one (to be used only on production):
 
 https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css
 
+Ozery Bakery Favicon CDN URL: https://rawgit.com/digitalbluemoon/ozery-fonts/master/ozery_favicon.png
+
 Usage Examples:
 -
-
-Ozery Bakery Favicon CDN URL: https://rawgit.com/digitalbluemoon/ozery-fonts/master/ozery_favicon.png
 
 <pre><code>< link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css" ></code></pre>
 
