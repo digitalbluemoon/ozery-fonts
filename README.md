@@ -53,6 +53,8 @@ https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css
 Usage Examples:
 -
 
+Ozery Bakery Favicon CDN URL: https://rawgit.com/digitalbluemoon/ozery-fonts/master/ozery_favicon.png
+
 <pre><code>< link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/digitalbluemoon/ozery-fonts/9d0d7853/css/fonts.css" ></code></pre>
 
 OR
